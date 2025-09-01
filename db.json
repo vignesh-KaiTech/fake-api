@@ -1,1 +1,74 @@
-
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 15",
+      "description": "Latest Apple smartphone",
+      "category": "Electronics",
+      "price": 999
+    },
+    {
+      "id": 2,
+      "title": "Nike Air Zoom",
+      "description": "Comfortable running shoes",
+      "category": "Fashion",
+      "price": 120
+    },
+    {
+      "id": 3,
+      "title": "Samsung Galaxy S24",
+      "description": "High-end Android phone",
+      "category": "Electronics",
+      "price": 899
+    },
+    {
+      "id": 4,
+      "title": "Sony WH-1000XM5",
+      "description": "Noise cancelling headphones",
+      "category": "Electronics",
+      "price": 350
+    },
+    {
+      "id": 5,
+      "title": "Dell XPS 15",
+      "description": "Powerful laptop for developers",
+      "category": "Computers",
+      "price": 1999
+    },
+    {
+      "id": 6,
+      "title": "Adidas Ultraboost",
+      "description": "Lightweight running shoes",
+      "category": "Fashion",
+      "price": 150
+    },
+    {
+      "id": 7,
+      "title": "MacBook Air M2",
+      "description": "Apple lightweight laptop",
+      "category": "Computers",
+      "price": 1299
+    },
+    {
+      "id": 8,
+      "title": "Logitech MX Master 3",
+      "description": "Wireless ergonomic mouse",
+      "category": "Accessories",
+      "price": 99
+    },
+    {
+      "id": 9,
+      "title": "Canon EOS R7",
+      "description": "Mirrorless camera",
+      "category": "Cameras",
+      "price": 1499
+    },
+    {
+      "id": 10,
+      "title": "Apple Watch Series 9",
+      "description": "Smartwatch with health tracking",
+      "category": "Wearables",
+      "price": 399
+    }
+  ]
+}
