@@ -1,5 +1,4 @@
 {
-  "products": [
     {
       "id": 1,
       "title": "iPhone 15",
@@ -24,7 +23,7 @@
     {
       "id": 4,
       "title": "Sony WH-1000XM5",
-      "description": "Noise cancelling headphones",
+      "description": "Noise-cancelling headphones",
       "category": "Electronics",
       "price": 350
     },
@@ -70,5 +69,4 @@
       "category": "Wearables",
       "price": 399
     }
-  ]
 }
